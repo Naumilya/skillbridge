@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Be+Vietnam+Pro:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+/* fonts */
+:root {
+  --font-family: 'Be Vietnam Pro';
+}
+/* colors */
+:root {
+  /*? Absolute Colors  */
+  --white: #fff;
+  --black: #000;
+  /*? Orange Shades */
+  --orange-50: #ff9500;
+  --orange-70: #ffbf66;
+  --orange-75: #ffca80;
+  --orange-80: #ffd499;
+  --orange-90: #ffeacc;
+  --orange-95: #fff4e5;
+  --orange-97: #fff9f0;
+  --orange-99: #fffdfa;
+  /*? White Shades */
+  --white-90: #e4e4e7;
+  --white-95: #f1f1f3;
+  --white-97: #f7f7f8;
+  --white-99: #fcfcfd;
+  /*? Grey Shades */
+  --gray-10: #191919;
+  --gray-15: #262626;
+  --gray-20: #333333;
+  --gray-30: #4c4c4d;
+  --gray-35: #59595a;
+  --gray-40: #656567;
+  --gray-60: #98989a;
+  --gray-70: #b3b3b3;
+}
